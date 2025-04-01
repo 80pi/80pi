@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @80pi
+- 👋 Hi, I’m @80π
 - 👀 I’m interested in Web site developement and also in cloud
 - 🌱 I’m currently learning full stack developement and devops
 - 💞️ I’m looking to collaborate on cloud technologies of full stack development
